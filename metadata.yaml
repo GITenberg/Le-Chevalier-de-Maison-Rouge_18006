@@ -34,6 +34,8 @@ description: "Le Chevalier de Maison-Rouge (translated as The Knight of Maison-R
   \ originally titled the work Le Chevalier de Rougeville, but changed the title to\
   \ Le Chevalier de Maison-Rouge after receiving a complaint from the son of the Marquis\
   \ de Rougeville.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18006#Le-Chevalier-de-Maison-Rouge
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-03-17'
 gutenberg_type: Text
